@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'strategy_tester'
+tester = StrategyTester::Application.new
+tester.run
